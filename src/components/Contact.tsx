@@ -40,19 +40,19 @@ const Contact = () => {
     {
       icon: <Mail size={24} />,
       label: "E-mail",
-      value: "alan.franca@email.com",
-      href: "mailto:alan.franca@email.com",
+      value: "alan@services.net.br",
+      href: "mailto:alan@services.net.br",
     },
     {
       icon: <Phone size={24} />,
       label: "Telefone",
-      value: "+55 (11) 98765-4321",
-      href: "tel:+5511987654321",
+      value: "+55 (66) 99906-4658",
+      href: "tel:+5566999064658",
     },
     {
       icon: <MapPin size={24} />,
       label: "Localização",
-      value: "São Paulo, SP - Brasil",
+      value: "Alta-Floresta, MT - Brasil",
       href: null,
     },
   ];
@@ -61,17 +61,17 @@ const Contact = () => {
     {
       icon: <Linkedin size={24} />,
       label: "LinkedIn",
-      href: "https://linkedin.com/in/alanfranca",
+      href: "https://linkedin.com/in/alan-m-lima",
     },
     {
       icon: <Github size={24} />,
       label: "GitHub",
-      href: "https://github.com/alanfranca",
+      href: "https://github.com/NZ-247",
     },
     {
       icon: <Mail size={24} />,
       label: "E-mail",
-      href: "mailto:alan.franca@email.com",
+      href: "mailto:alan@services.net.br",
     },
   ];
 

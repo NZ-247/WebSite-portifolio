@@ -30,18 +30,18 @@ const Footer = () => {
     {
       title: "Contato",
       links: [
-        { name: "E-mail", href: "mailto:alan.franca@email.com" },
-        { name: "LinkedIn", href: "https://linkedin.com/in/alanfranca" },
-        { name: "GitHub", href: "https://github.com/alanfranca" },
-        { name: "Telefone", href: "tel:+5511987654321" },
+        { name: "E-mail", href: "mailto:alan@services.net.br" },
+        { name: "LinkedIn", href: "https://linkedin.com/in/alan-m-lima" },
+        { name: "GitHub", href: "https://github.com/NZ-247" },
+        { name: "Telefone", href: "tel:+5566999064658" },
       ],
     },
   ];
 
   const socialLinks = [
-    { icon: <Linkedin size={20} />, href: "https://linkedin.com/in/alanfranca", label: "LinkedIn" },
-    { icon: <Github size={20} />, href: "https://github.com/alanfranca", label: "GitHub" },
-    { icon: <Mail size={20} />, href: "mailto:alan.franca@email.com", label: "E-mail" },
+    { icon: <Linkedin size={20} />, href: "https://linkedin.com/in/alan-m-lima", label: "LinkedIn" },
+    { icon: <Github size={20} />, href: "https://github.com/NZ-247", label: "GitHub" },
+    { icon: <Mail size={20} />, href: "mailto:alan@services.nt.br", label: "E-mail" },
   ];
 
   return (

@@ -112,7 +112,7 @@ const Certifications = () => {
               <p className="text-[#94A3B8]">Certificações Profissionais</p>
             </div>
             <div>
-              <div className="text-4xl font-bold text-[#00D9FF] mb-2">10+</div>
+              <div className="text-4xl font-bold text-[#00D9FF] mb-2">4+</div>
               <p className="text-[#94A3B8]">Anos de Experiência</p>
             </div>
             <div>

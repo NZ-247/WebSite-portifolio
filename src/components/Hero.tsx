@@ -33,7 +33,7 @@ const Hero = () => {
 
           {/* Main Heading */}
           <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-            <span className="text-[#F8FAFC]">Alan França</span>
+            <span className="text-[#F8FAFC]">Alan M. Lima</span>
             <br />
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#00D9FF] to-[#0EA5E9]">
               Analista e Consultor

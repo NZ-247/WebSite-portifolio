@@ -48,7 +48,7 @@ const Navbar = () => {
               }}
               className="text-xl md:text-2xl font-bold text-[#00D9FF] hover:text-[#0EA5E9] transition-colors"
             >
-              Alan França
+              Alan M. Lima
             </a>
           </div>
 

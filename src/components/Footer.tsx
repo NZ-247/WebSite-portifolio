@@ -51,7 +51,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           {/* Brand Section */}
           <div className="lg:col-span-1">
-            <h3 className="text-2xl font-bold text-[#00D9FF] mb-4">Alan França</h3>
+            <h3 className="text-2xl font-bold text-[#00D9FF] mb-4">Alan M. Lima</h3>
             <p className="text-[#94A3B8] leading-relaxed mb-4">
               Analista e Consultor de Infraestrutura de T.I especializado em soluções completas para empresas.
             </p>
@@ -105,7 +105,7 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             {/* Copyright */}
             <p className="text-[#94A3B8] text-sm text-center md:text-left">
-              © {currentYear} Alan França. Todos os direitos reservados.
+              © {currentYear} Alan M. Lima Todos os direitos reservados.
             </p>
 
             {/* Back to Top Button */}

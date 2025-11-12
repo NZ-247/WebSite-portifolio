@@ -45,7 +45,7 @@ const About = () => {
               Especialista em Infraestrutura de T.I com Foco em Excelência
             </h3>
             <p className="text-[#94A3B8] text-lg leading-relaxed">
-              Sou Alan França, Analista e Consultor de Infraestrutura de T.I com mais de 10 anos de experiência 
+              Sou Alan Maciel Lima, Analista e Consultor de Infraestrutura de T.I com mais de 10 anos de experiência 
               no mercado. Minha trajetória profissional é marcada pela busca constante por soluções tecnológicas 
               que realmente fazem a diferença no dia a dia das empresas.
             </p>

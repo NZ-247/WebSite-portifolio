@@ -68,7 +68,7 @@ const Hero = () => {
           {/* Stats */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-16 max-w-4xl mx-auto">
             {[
-              { value: "10+", label: "Anos de Experiência" },
+              { value: "4+", label: "Anos de Experiência" },
               { value: "50+", label: "Projetos Concluídos" },
               { value: "30+", label: "Clientes Satisfeitos" },
               { value: "24/7", label: "Suporte Disponível" },

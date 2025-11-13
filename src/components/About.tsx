@@ -6,7 +6,7 @@ const About = () => {
     {
       icon: <Award size={32} />,
       title: "Experiência Sólida",
-      description: "Mais de 10 anos atuando em infraestrutura de T.I em empresas de diversos segmentos",
+      description: "Mais de 4 anos atuando em infraestrutura de T.I em empresas de diversos segmentos",
     },
     {
       icon: <Target size={32} />,
